@@ -1,0 +1,41 @@
+﻿body {
+
+    background-color:bisque
+}
+
+h1 {
+
+    color:brown;
+    text-align:center;
+}
+
+h3 {
+    color:brown;
+    text-align:center;
+}
+
+form {
+    text-align:center;
+    border:double;
+    margin-left:50px;
+    margin-right:50px;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+    form.button {
+        color:yellow;
+    }
+
+buttonInsert{
+    color:black;
+}
+
+label {
+    background-color:yellow;
+}
+
+form-group {
+    text-align:center;
+    width:50%;
+}
